@@ -23,7 +23,7 @@ interests:
   - Java Spring Boot
   - Flutter
   - Next.js & TypeScript
-hobbies: Coding, Learning, Open Source
+hobbies: Coding, Learning, Open Source, Japanese Beginner (Self-Learning)
 motto: "Code is poetry, simplicity is beauty."
 ```
 
