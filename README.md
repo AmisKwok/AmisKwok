@@ -44,13 +44,6 @@ motto: "Code is poetry, simplicity is beauty."
   
 </div>
 
-<div align="center">
-  
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmisKwok&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-  
-</div>
-
 ## 🛠️ Tech Stack | 技术栈
 
 ### Backend | 后端
@@ -93,6 +86,7 @@ motto: "Code is poetry, simplicity is beauty."
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AmisKwok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmisKwok)
+[![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
 
 </div>
 
@@ -105,9 +99,30 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-<h2>See my blog <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-https://amisblog.cn/
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+## 🌐 Visit My Blog | 访问我的博客
+
+<div align="center">
+  
+  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
+  
+  <br/>
+  <br/>
+  
+  <a href="https://amisblog.cn/">
+    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="Blog GIF" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+
+<img height="60" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmisKwok&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
