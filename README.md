@@ -44,6 +44,13 @@ motto: "Code is poetry, simplicity is beauty."
   
 </div>
 
+<div align="center">
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmisKwok&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+  
+</div>
+
 ## 🛠️ Tech Stack | 技术栈
 
 ### Backend | 后端
