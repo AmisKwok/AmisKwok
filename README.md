@@ -102,7 +102,7 @@ motto: "Code is poetry, simplicity is beauty."
 <div align="center">
 
 ### 💡 "Simplicity is the ultimate sophistication."  
-### 💡 "简单是终极的复杂。"
+### 💡 "至繁归于至简。"
 
 ---
 
