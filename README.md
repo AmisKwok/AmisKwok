@@ -92,8 +92,10 @@ motto: "Code is poetry, simplicity is beauty."
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmisKwok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmisKwok)
+[![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
 [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
+[![GitHub](https://img.shields.io/badge/GitHub-AmisKwok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmisKwok)
+[![Gitee](https://img.shields.io/badge/Gitee-AmisKwok-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/AmisKwok)
 
 </div>
 
