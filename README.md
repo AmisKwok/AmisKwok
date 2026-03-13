@@ -13,7 +13,11 @@
 
 </div>
 
+<div align="center">
+
 ## 🚀 About Me | 关于我
+
+</div>
 
 ```yaml
 name: AmisKwok
@@ -29,7 +33,11 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats | GitHub 统计
+
+</div>
 
 <div align="center">
   
@@ -88,6 +96,21 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
+<div align="center">
+
+## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
+
+</div>
+
+<div align="center">
+  
+  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
+  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
+  
+</div>
+
+---
+
 ## 📫 Let's Connect | 联系我
 
 <div align="center">
@@ -105,23 +128,14 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
-
-<div align="center">
-  
-  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
-  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
-  
-  <br/>
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="GIF" />
-  
 </div>
 
----
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="GIF" />
+
+<br/>
+<br/>
 
 <img height="60" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
