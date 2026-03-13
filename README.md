@@ -34,7 +34,7 @@ motto: "Code is poetry, simplicity is beauty."
 <div align="center">
   
   <!-- 使用 GitHub 官方贡献图 -->
-  <img src="https://github.com/AmisKwok.png?size=200" alt="Avatar" />
+  <img src="https://github.com/AmisKwok.png?size=200" alt="Avatar" style="border-radius: 50%;" />
   
   <br/>
   <br/>
