@@ -13,11 +13,7 @@
 
 </div>
 
-<div align="center">
-
 ## 🚀 About Me | 关于我
-
-</div>
 
 ```yaml
 name: AmisKwok
@@ -33,11 +29,7 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-<div align="center">
-
 ## 📊 GitHub Stats | GitHub 统计
-
-</div>
 
 <div align="center">
   
@@ -96,11 +88,7 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-<div align="center">
-
 ## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
-
-</div>
 
 <div align="center">
   
