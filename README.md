@@ -16,7 +16,7 @@
 ## 🚀 About Me | 关于我
 
 <div align="center">
-  <img src="https://github.com/AmisKwok.png?size=200" alt="Avatar" style="border-radius: 50%;" />
+  <img src="https://github.com/AmisKwok.png?size=200" width="200" height="200" alt="Avatar" />
 </div>
 
 ```yaml
