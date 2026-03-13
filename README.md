@@ -92,10 +92,7 @@ motto: "Code is poetry, simplicity is beauty."
 
 <div align="center">
 
-[![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
-[![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
-[![GitHub](https://img.shields.io/badge/GitHub-AmisKwok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmisKwok)
-[![Gitee](https://img.shields.io/badge/Gitee-AmisKwok-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/AmisKwok)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiskwokk@gmail.com)
 
 </div>
 
@@ -108,18 +105,17 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-## 🌐 Visit My Blog | 访问我的博客
+## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
 
 <div align="center">
   
+  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
   [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
   
   <br/>
   <br/>
   
-  <a href="https://amisblog.cn/">
-    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="Blog GIF" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="GIF" />
   
 </div>
 
