@@ -15,6 +15,10 @@
 
 ## 🚀 About Me | 关于我
 
+<div align="center">
+  <img src="https://github.com/AmisKwok.png?size=200" alt="Avatar" style="border-radius: 50%;" />
+</div>
+
 ```yaml
 name: AmisKwok
 location: China 🇨🇳
@@ -32,12 +36,6 @@ motto: "Code is poetry, simplicity is beauty."
 ## 📊 GitHub Stats | GitHub 统计
 
 <div align="center">
-  
-  <!-- 使用 GitHub 官方贡献图 -->
-  <img src="https://github.com/AmisKwok.png?size=200" alt="Avatar" style="border-radius: 50%;" />
-  
-  <br/>
-  <br/>
   
   <!-- GitHub Streak Stats - 替代方案 -->
   <img src="https://streak-stats.demolab.com?user=AmisKwok&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak" />
