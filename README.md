@@ -33,32 +33,32 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-## 🏆 Featured Projects | 精选项目
+## 🏆 My Projects | 我的项目
 
 <div align="center">
   <a href="https://github.com/AmisKwok/vibe-music-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-server&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-server" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-server&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-server" />
   </a>
   <a href="https://github.com/AmisKwok/vibe-music-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-app" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-app" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AmisKwok/AmisHomepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisHomepage&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisHomepage" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisHomepage&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisHomepage" />
   </a>
   <a href="https://github.com/AmisKwok/amis-s-blog-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis-s-blog-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis-s-blog-demo" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis-s-blog-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis-s-blog-demo" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AmisKwok/AmisJavaUtils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisJavaUtils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisJavaUtils" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisJavaUtils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisJavaUtils" />
   </a>
   <a href="https://github.com/AmisKwok/amis_flutter_utils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis_flutter_utils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis_flutter_utils" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis_flutter_utils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis_flutter_utils" />
   </a>
 </div>
 
