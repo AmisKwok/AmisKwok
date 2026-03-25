@@ -37,10 +37,10 @@ motto: "Code is poetry, simplicity is beauty."
 
 <div align="center">
   <a href="https://github.com/AmisKwok/vibe-music-server">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-server&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-server" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-server&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=2" alt="vibe-music-server" />
   </a>
   <a href="https://github.com/AmisKwok/vibe-music-app">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="vibe-music-app" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-app&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=2" alt="vibe-music-app" />
   </a>
 </div>
 
