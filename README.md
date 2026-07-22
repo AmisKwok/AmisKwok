@@ -48,10 +48,10 @@ motto: "Code is poetry, simplicity is beauty."
 
 ### 📄 Project Details | 项目详情
 
-| Website | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [Zero Labs Co](https://www.zerolabsco.com/) | Technology consulting and development services | Next.js, TypeScript |
-| [InvoiceZero](https://www.invoicezero.net/) | Invoice management platform | Spring Boot, Flutter |
+| Website | Description |
+| :--- |
+| [Zero Labs Co](https://www.zerolabsco.com/) | Open-source SDKs and premium mobile apps for developers |
+| [InvoiceZero](https://www.invoicezero.net/) | Premium minimalist invoicing app for freelancers and small businesses |
 
 ---
 
