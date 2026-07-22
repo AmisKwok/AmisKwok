@@ -36,31 +36,22 @@ motto: "Code is poetry, simplicity is beauty."
 ## 🏆 My Projects | 我的项目
 
 <div align="center">
-  <a href="https://github.com/AmisKwok/vibe-music-server">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-server&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=2" alt="vibe-music-server" />
+  
+  <a href="https://www.zerolabsco.com/" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=zerolabsco&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Zero Labs Co" />
   </a>
-  <a href="https://github.com/AmisKwok/vibe-music-app">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=vibe-music-app&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=2" alt="vibe-music-app" />
+  <a href="https://www.invoicezero.net/" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=invoicezero&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="InvoiceZero" />
   </a>
+  
 </div>
 
-<div align="center">
-  <a href="https://github.com/AmisKwok/AmisHomepage">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisHomepage&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisHomepage" />
-  </a>
-  <a href="https://github.com/AmisKwok/amis-s-blog-demo">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis-s-blog-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis-s-blog-demo" />
-  </a>
-</div>
+### 📄 Project Details | 项目详情
 
-<div align="center">
-  <a href="https://github.com/AmisKwok/AmisJavaUtils">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=AmisJavaUtils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AmisJavaUtils" />
-  </a>
-  <a href="https://github.com/AmisKwok/amis_flutter_utils">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmisKwok&repo=amis_flutter_utils&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="amis_flutter_utils" />
-  </a>
-</div>
+| Website | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [Zero Labs Co](https://www.zerolabsco.com/) | Technology consulting and development services | Next.js, TypeScript |
+| [InvoiceZero](https://www.invoicezero.net/) | Invoice management platform | Spring Boot, Flutter |
 
 ---
 
@@ -117,12 +108,12 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
+## 🌐 Visit My Websites | 访问我的网站
 
 <div align="center">
   
-  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
-  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
+  [![Zero Labs Co](https://img.shields.io/badge/Zero_Labs_Co-zerolabsco.com-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.zerolabsco.com/)
+  [![InvoiceZero](https://img.shields.io/badge/InvoiceZero-invoicezero.net-70a5fd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.invoicezero.net/)
   
 </div>
 
