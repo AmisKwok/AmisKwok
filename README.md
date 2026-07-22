@@ -108,12 +108,12 @@ motto: "Code is poetry, simplicity is beauty."
 
 ---
 
-## 🌐 Visit My Websites | 访问我的网站
+## 🌐 Visit My Homepage & Blog | 访问我的主页和博客
 
 <div align="center">
   
-  [![Zero Labs Co](https://img.shields.io/badge/Zero_Labs_Co-zerolabsco.com-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.zerolabsco.com/)
-  [![InvoiceZero](https://img.shields.io/badge/InvoiceZero-invoicezero.net-70a5fd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.invoicezero.net/)
+  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
+  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=for-the-badge&logo=blogger&logoColor=white)](https://amisblog.cn/)
   
 </div>
 
