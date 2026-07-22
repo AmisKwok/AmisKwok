@@ -38,10 +38,10 @@ motto: "Code is poetry, simplicity is beauty."
 <div align="center">
   
   <a href="https://www.zerolabsco.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Zero_Labs_Co-https%3A%2F%2Fwww.zerolabsco.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Zero Labs Co" />
+    <img src="https://img.shields.io/badge/Zero_Labs_Co-https%3A%2F%2Fwww.zerolabsco.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Zero Labs" />
   </a>
   <a href="https://www.invoicezero.net/" target="_blank">
-    <img src="https://img.shields.io/badge/InvoiceZero-https%3A%2F%2Fwww.invoicezero.net-purple?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="InvoiceZero" />
+    <img src="https://img.shields.io/badge/InvoiceZero-https%3A%2F%2Fwww.invoicezero.net-purple?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Invoice Zero" />
   </a>
   
 </div>
