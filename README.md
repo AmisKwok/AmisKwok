@@ -31,6 +31,10 @@ hobbies: Coding, Learning, Open Source, Japanese Beginner (Self-Learning)
 motto: "Code is poetry, simplicity is beauty."
 ```
 
+<p align="center">
+  <a href="https://ko-fi.com/amiskwok"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on ko-fi!" /></a>
+</p>
+
 ---
 
 ## 🏆 My Projects | 我的项目
