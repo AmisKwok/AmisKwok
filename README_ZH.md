@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+AmisKwok" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+AmisKwok" alt="Typing SVG" />
 
 <br/>
 
-![Backend](https://img.shields.io/badge/Backend-Developer-38bdae?style=flat)
-![Mobile](https://img.shields.io/badge/Mobile-Developer-70a5fd?style=flat)
+![后端](https://img.shields.io/badge/后端-开发者-38bdae?style=flat)
+![移动端](https://img.shields.io/badge/移动端-开发者-70a5fd?style=flat)
 
 <br/>
 
-> 💻 Backend & Mobile Developer, passionate about creating value through code, currently exploring the world of Rust and Go.
+> 💻 后端 & 移动端开发者，热爱用代码创造价值，正在探索 Rust 与 Go 的世界。
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 关于我
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="130"><strong>📛 Name</strong></td>
+    <td align="center" width="130"><strong>📛 名字</strong></td>
     <td><code>AmisKwok</code></td>
   </tr>
   <tr>
-    <td align="center"><strong>🎯 Focus</strong></td>
-    <td>Backend Development & Mobile Development</td>
+    <td align="center"><strong>🎯 方向</strong></td>
+    <td>后端开发 & 移动端开发</td>
   </tr>
   <tr>
-    <td align="center"><strong>🌟 Interests</strong></td>
+    <td align="center"><strong>🌟 兴趣</strong></td>
     <td>Java Spring Boot · Flutter · Next.js & TypeScript · Rust · Go</td>
   </tr>
   <tr>
-    <td align="center"><strong>🎮 Hobbies</strong></td>
-    <td>Coding · Learning · Open Source · Rust & Go · Japanese Beginner (Self-Learning)</td>
+    <td align="center"><strong>🎮 爱好</strong></td>
+    <td>编程 · 学习 · 开源 · Rust & Go · 日语自学初学者</td>
   </tr>
   <tr>
-    <td align="center"><strong>💡 Motto</strong></td>
-    <td>"Code is poetry, simplicity is beauty."</td>
+    <td align="center"><strong>💡 座右铭</strong></td>
+    <td>"Code is poetry, simplicity is beauty."（代码如诗，简约即美）</td>
   </tr>
 </table>
 
@@ -46,34 +46,34 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 当前关注
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="60"><img src="https://img.shields.io/badge/🔭-38bdae?style=flat&labelColor=1a1b27" alt="working" /></td>
-    <td><strong>Working on</strong> Backend Services & Mobile Apps</td>
+    <td><strong>正在做</strong> 后端服务 & 移动应用</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/🌱-70a5fd?style=flat&labelColor=1a1b27" alt="learning" /></td>
-    <td><strong>Learning</strong> Rust, Go, Cloud Native & Microservices</td>
+    <td><strong>正在学</strong> Rust、Go、云原生与微服务架构</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/💬-ff6470?style=flat&labelColor=1a1b27" alt="ask" /></td>
-    <td><strong>Ask me about</strong> Java, Flutter, Rust, Go, Backend Development</td>
+    <td><strong>可以问我</strong> Java、Flutter、Rust、Go、后端开发</td>
   </tr>
 </table>
 
 </div>
 
 <p align="center">
-  <a href="https://ko-fi.com/amiskwok"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on ko-fi!" /></a>
+  <a href="https://ko-fi.com/amiskwok"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="在 ko-fi 支持我！" /></a>
 </p>
 
 ---
 
-## 🏆 My Projects
+## 🏆 我的项目
 
 <div align="center">
   
@@ -88,26 +88,26 @@
 
 <table>
   <tr>
-    <th align="center">🌐 Website</th>
-    <th align="center">📝 Description</th>
+    <th align="center">🌐 网站</th>
+    <th align="center">📝 简介</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.zerolabsco.com/">Zero Labs</a></td>
-    <td align="center">Open-source SDKs and premium mobile apps for developers</td>
+    <td align="center">面向开发者的开源 SDK 与优质移动应用</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.invoicezero.net/">InvoiceZero</a></td>
-    <td align="center">Premium minimalist invoicing app for freelancers and small businesses</td>
+    <td align="center">面向自由职业者与小微企业的极简发票应用</td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
-### Backend
+### 后端
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -116,13 +116,13 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Mobile
+### 移动端
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-### Frontend
+### 前端
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -132,18 +132,18 @@
 
 ---
 
-## 🌐 Visit My Homepage & Blog
+## 🌐 访问我的主页和博客
 
 <div align="center">
   
-  [![Homepage](https://img.shields.io/badge/Homepage-amisweb.cn-38bdae?style=flat&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
-  [![Blog](https://img.shields.io/badge/Blog-amisblog.cn-70a5fd?style=flat&logo=blogger&logoColor=white)](https://amisblog.cn/)
+  [![主页](https://img.shields.io/badge/主页-amisweb.cn-38bdae?style=flat&logo=google-chrome&logoColor=white)](https://www.amisweb.cn/)
+  [![博客](https://img.shields.io/badge/博客-amisblog.cn-70a5fd?style=flat&logo=blogger&logoColor=white)](https://amisblog.cn/)
   
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <div align="center">
   
@@ -154,11 +154,11 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 联系我
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amiskwokk@gmail.com)
+[![邮箱](https://img.shields.io/badge/邮箱-联系我-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amiskwokk@gmail.com)
 
 </div>
 
@@ -171,6 +171,6 @@
 <br/>
 <br/>
 
-💡 *"Simplicity is the ultimate sophistication."*
+💡 *"至繁归于至简。"*
 
 </div>
