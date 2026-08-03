@@ -93,11 +93,11 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.zerolabsco.com/">Zero Labs</a></td>
-    <td align="center">Open-source SDKs and premium mobile apps for developers</td>
+    <td align="center">Open-source org building Flutter SDKs, AI dev toolkits & apps</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.invoicezero.net/">InvoiceZero</a></td>
-    <td align="center">Premium minimalist invoicing app for freelancers and small businesses</td>
+    <td align="center">Simple, powerful & private invoices, quotes and receipts manager</td>
   </tr>
 </table>
 

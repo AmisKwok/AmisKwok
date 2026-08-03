@@ -93,11 +93,11 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.zerolabsco.com/">Zero Labs</a></td>
-    <td align="center">面向开发者的开源 SDK 与优质移动应用</td>
+    <td align="center">开源组织，打造 Flutter SDK、AI 开发工具包与应用</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.invoicezero.net/">InvoiceZero</a></td>
-    <td align="center">面向自由职业者与小微企业的极简发票应用</td>
+    <td align="center">简单、强大且私密的发票、报价单与收据管理工具</td>
   </tr>
 </table>
 
