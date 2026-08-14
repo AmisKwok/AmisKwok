@@ -52,33 +52,21 @@
 
 ## 🎯 Current Focus & Languages
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td align="center" width="60"><img src="https://img.shields.io/badge/🔭-38bdae?style=flat&labelColor=1a1b27" alt="working" /></td>
-    <td><strong>Working on</strong> Backend Services & Mobile Apps</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/🌱-70a5fd?style=flat&labelColor=1a1b27" alt="learning" /></td>
-    <td><strong>Learning</strong> Rust, Go, Cloud Native & Microservices</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/💬-ff6470?style=flat&labelColor=1a1b27" alt="ask" /></td>
-    <td><strong>Ask me about</strong> Java, Flutter, Rust, Go, Backend Development</td>
-  </tr>
-</table>
+| | |
+| :---: | :--- |
+| <img src="https://img.shields.io/badge/🔭-38bdae?style=flat&labelColor=1a1b27" alt="working" /> | **Working on** Backend Services & Mobile Apps |
+| <img src="https://img.shields.io/badge/🌱-70a5fd?style=flat&labelColor=1a1b27" alt="learning" /> | **Learning** Rust, Go, Cloud Native & Microservices |
+| <img src="https://img.shields.io/badge/💬-ff6470?style=flat&labelColor=1a1b27" alt="ask" /> | **Ask me about** Java, Flutter, Rust, Go, Backend Development |
 
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+</td><td width="50%" valign="top">
+
+<div align="center">
+<img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+</td></tr></table>
 
 ---
 
