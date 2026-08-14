@@ -52,7 +52,7 @@
 
 ## 🎯 Current Focus & Languages
 
-<table><tr><td width="40%" valign="top">
+<div align="center">
 
 | | |
 | :---: | :--- |
@@ -60,13 +60,12 @@
 | <img src="https://img.shields.io/badge/🌱-70a5fd?style=flat&labelColor=1a1b27" alt="learning" /> | **Learning** Rust, Go, Cloud Native & Microservices |
 | <img src="https://img.shields.io/badge/💬-ff6470?style=flat&labelColor=1a1b27" alt="ask" /> | **Ask me about** Java, Flutter, Rust, Go, Backend Development |
 
-</td><td width="60%" valign="top">
+<br/>
+<br/>
 
-<div align="center">
-<img width="100%" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+<img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+
 </div>
-
-</td></tr></table>
 
 ---
 
