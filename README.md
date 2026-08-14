@@ -50,9 +50,11 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Languages
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 <table>
   <tr>
@@ -69,7 +71,14 @@
   </tr>
 </table>
 
-</div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -100,14 +109,6 @@
     <td align="center">Simple, powerful & private invoices, quotes and receipts manager</td>
   </tr>
 </table>
-
----
-
-## 🛠️ Most Used Languages
-
-<div align="center">
-  <img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Most Used Languages" />
-</div>
 
 ---
 
