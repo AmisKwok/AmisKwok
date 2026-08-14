@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+<img width="80%" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
 
 </div>
 
