@@ -106,7 +106,7 @@
 ## 🛠️ Most Used Languages
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Most Used Languages" />
+  <img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Most Used Languages" />
 </div>
 
 ---
