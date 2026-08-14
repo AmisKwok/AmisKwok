@@ -63,7 +63,7 @@
 </td><td width="50%" valign="top">
 
 <div align="center">
-<img src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
+<img width="100%" src="https://readmeservice.haleclipse.vercel.app/api/top-langs/?username=AmisKwok&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 </td></tr></table>
