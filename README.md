@@ -114,8 +114,8 @@
 
 <div align="center">
   
-  <!-- Contribution Graph (GitHub official, always available) -->
-  <img src="https://github.com/users/AmisKwok/contributions" alt="Contribution Graph" width="100%" />
+  <!-- Contribution Graph (ghchart.rshah.org, reliable SVG source) -->
+  <img src="https://ghchart.rshah.org/1a1b27/AmisKwok" alt="Contribution Graph" width="100%" />
   
 </div>
 
