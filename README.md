@@ -114,8 +114,8 @@
 
 <div align="center">
   
-  <!-- Contribution Graph (ghchart.rshah.org, reliable SVG source) -->
-  <img src="https://ghchart.rshah.org/1a1b27/AmisKwok" alt="Contribution Graph" width="100%" />
+  <!-- Contribution Graph (ghchart.rshah.org: bg=1a1b27, cells=ff6470) -->
+  <img src="https://ghchart.rshah.org/1a1b27,ff6470/AmisKwok" alt="Contribution Graph" width="100%" />
   
 </div>
 
