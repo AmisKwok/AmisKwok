@@ -115,7 +115,7 @@
 <div align="center">
   
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmisKwok&bg_color=1a1b27&color=ff6470&line=ffa500&point=f9f871&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-contribution-graph.jogruber.de/?username=AmisKwok&bg_color=1a1b27&color=ff6470&line=ffa500&point=f9f871&area=true&hide_border=true" alt="Contribution Graph" />
   
 </div>
 
